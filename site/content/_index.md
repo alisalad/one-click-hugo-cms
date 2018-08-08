@@ -1,7 +1,7 @@
 ---
 title: Great coffee with a conscience
 subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+image: /img/blog-chemex.jpg
 blurb:
   heading: Why Yididiilo?
   text: >-
